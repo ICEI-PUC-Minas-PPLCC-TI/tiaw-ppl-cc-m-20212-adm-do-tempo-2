@@ -1,10 +1,12 @@
 ## Introdução
 
-> alou
+
 
 ## Problema
 
 ## Objetivos
+
+>  O objetivo do nosso projeto visa tornar a administração do tempo algo mais rápido, fácil e efetivo. 
 
 ## Justificativa
 
