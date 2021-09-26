@@ -1,5 +1,5 @@
  ## Introdução
->  Nosso projeto visa melhorar sua administraçao do tempo ,pois, saber administra-lo tambem é saber administrar sua vida e com isso melhora-la    
+>  Nosso projeto visa melhorar sua administraçao do tempo ,pois, saber administra-lo tambem é saber administrar sua vida e com isso alcançar seus objetivos.     
 
 ## Problema
 
