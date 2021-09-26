@@ -1,6 +1,10 @@
 ## Introdução
 
-## Participantes
+## Problema
 
-## Estrutura de Documentos
+## Objetivos
+
+## Justificativa
+
+## Público-Alvo
 
