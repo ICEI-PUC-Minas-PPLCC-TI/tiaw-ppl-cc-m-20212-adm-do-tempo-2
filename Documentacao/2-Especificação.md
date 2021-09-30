@@ -1,33 +1,75 @@
 ## Especificações do Projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas 
+NOME: Rodrigo Silva Lima;               
+IDADE: 23 anos;              
+HOBBIE: Jogar jogos online;              
+TRABALHO: Analista;            
+PERSONALIDADE: Estabilidade;        
+SONHOS: Ter uma casa própria junto com uma família unida e ser bem sucedido;               
+OBJETOS E LUGARES: Utiliza computadores em seu serviço e hobby, e celular para se comunicar
+                   com amigos e familiares;  
+OBJETIVOS CHAVE: Otimizar a realização de tarefas em seu serviço;     
+COMO DEVEMOS TRATA-LA: Impulsiona-la a mudar e faze-lo se sentir enturmado;
+NUNCA DEVEMOS: Não diminui-la.
 
-## Histórias de Usuários
+NOME: Maria Lúcia do Carmo;               
+IDADE: 21 anos;              
+HOBBIE: Assistir netflix;              
+TRABALHO: Estudante;             
+PERSONALIDADE: Conformidade e estabilidade;        
+SONHOS: Ser médica e ter uma família;               
+OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amigos e ver séries;    
+OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima;     
+COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente;
+NUNCA DEVEMOS: Faltar sinceridade e xinga-la;  
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+NOME: Karen dos Reis;                 
+IDADE: 19 anos;                
+HOBBIE: Andar de skate;              
+TRABALHO: Estudante;            
+PERSONALIDADE: Dominância e conformidade;       
+SONHOS: Viajar para o exterior, formar na faculdade e ter uma família;              
+OBJETOS E LUGARES: Utiliza o aparelho celular para tudo, em excesso muitas vezes;   
+OBJETIVOS CHAVE: Se tornar mais organizada, tirar notas melhores e ter mais tempo livre;   
+COMO DEVEMOS TRATA-LA: Mostrar que ela é capaz e dar dicas de como se organizar;
+NUNCA DEVEMOS: Critica-la e pressiona-la.
+
 
 ## Requisitos
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 #### Requisitos Funcionais
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito  ----------------------  | Prioridade |
+|------|-----------------------------------------------  |----   |
+|RF-001| Permitir que o usuário preencha um calendário   |       |
+|      | com suas tarefas                                | ALTA  | 
+|RF-002| Emitir um relatório de resultados no mês        | MÉDIA |
+|RF-003| Disponibilizar ao usuário textos e  vídeos sobre| MÉDIA |
+|      | a importância da administração do tempo         |       |
+      
 
 #### Requisitos não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|ID     | Descrição do Requisito  ---------------------------------------    |Prioridade |
+|-------|----------------------------------------------------------------    |------|
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel  |ALTA  | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s              |MÉDIA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado|ALTA  |
+|       |   (Google Chrome, Firefox, Microsoft Edge)                         |      |
+
+
+
+
 
 ## Restrições
+As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
+|01| O projeto deverá ser entregue até o dia 03/10/2021    |
 |02| Não pode ser desenvolvido um módulo de backend        |
