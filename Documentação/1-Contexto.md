@@ -15,4 +15,4 @@ Sabendo administrar sua vida você não sofre tanta pressão com quantidade de r
 
 ## Público-Alvo
  
-> Pessoas que possuem problemas em administrar o tempo de maneira efetiva, pessoas que utilizam app's que ajudam a administrar o tempo.
+>  Ajudar tanto pessoas que possuem problemas em administrar o tempo de maneira efetiva, quanto pessoas que não possuem problemas mas querem melhorar. 
