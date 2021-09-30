@@ -25,13 +25,5 @@
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+[wireframe site administração do tempo.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-adm-do-tempo-2/files/7262967/wireframe.site.administracao.do.tempo.pdf)
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
