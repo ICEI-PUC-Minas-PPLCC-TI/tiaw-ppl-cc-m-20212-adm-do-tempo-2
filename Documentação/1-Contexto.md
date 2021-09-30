@@ -5,6 +5,7 @@ Sabendo administrar sua vida você não sofre tanta pressão com quantidade de r
      
 
 ## Problema
+>  Nosso projeto tem um problema comum que todos já passaram à administração do tempo que pode trazer vários problemas , tem aqueles que se adaptaram e podem melhorar, e aqueles que ainda não se acostumaram mas é algo essencial se ambientar a esse fato para melhorar sua forma de viver.
 
 ## Objetivos
 
