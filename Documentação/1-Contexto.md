@@ -9,6 +9,7 @@ Sabendo administrar sua vida você não sofre tanta pressão com quantidade de r
 
 
 ## Objetivos
+>  Com a criação do nosso site esperamos ajudar pessoas que possuem uma má administração do tempo e pessoas que buscam melhorar sua administração com uma plataforma editável em que dá pra colocar seus horários e atividades e com áreas sobre a importância da administração do tempo.   
 
 ## Justificativa
 
