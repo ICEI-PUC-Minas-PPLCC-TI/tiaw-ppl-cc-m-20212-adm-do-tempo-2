@@ -20,19 +20,6 @@ NUNCA DEVEMOS: Diminuí-lo.;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790155-247563be-4dc2-43a1-a60e-fb68503039c3.jpg" align="left" height="300" width="300" ></a>
 
 
@@ -47,7 +34,7 @@ SONHOS: Ser médica e ter uma família;
 OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amigos e ver séries;    
 OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima;     
 COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente;
-NUNCA DEVEMOS: Faltar sinceridade e xinga-la;  
+NUNCA DEVEMOS: Faltar sinceridade e xingá-la;  
 
 NOME: Karen dos Reis;                 
 IDADE: 19 anos;                
