@@ -3,27 +3,61 @@
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
 
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+O processo de realização dos testes da solução desenvolvida está documentado na seção que se segue e traz os planos de testes de software e de usabilidade, na sequência, o registro dos testes realizados.
 
 ## Plano de Testes
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+Requisitos para realização do teste:
+Site publicado na Internet
+Navegador da Internet - Chrome, Firefox ou Edge
+Conectividade de Internet para acesso às plataformas (APIs)
+
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+Caso de Teste
+CT-01 - Visualização das tarefas
+Requisitos Associados
+RF-01 - Deve ser possível, na página tarefas, a criação de uma lista com atividades concluídas
+RF-02 - Deve ser possível, na página tarefas, a criação de uma lista com atividades pendentes
+Objetivo do Teste
+Verificar se está sendo possível a criação de uma lista com atividades concluídas e pendentes
+Passos
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Entrar na página tarefas
+Critérios de Êxito
+Devem ser apresentadas 2 listas com as tarefas concluídas e pendentes
+As listas devem ser editáveis
+
+
+Caso de Teste
+CT-02 - Visualização da agenda
+Requisitos Associados
+RF-03 - O site deve permitir ao usuário, na página agenda, a criação de uma agenda semanal em formato de planner que aparecem as tarefas
+Objetivo do Teste
+Verificar se está sendo possível a criação de uma agenda com as tarefas de acordo com o dia em que esta é designada
+Passos
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Entrar na página agenda
+Critérios de Êxito
+A página deve apresentar uma agenda semanal editável com as tarefas de cada dia
+
+Caso de Teste
+CT-03 - Sobre nós
+Requisitos Associados
+RF-04 - O site deve permitir ao usuário, na página sobre nós, um texto descrevendo os desenvolvedores do site
+Objetivo do Teste
+Verificar se está sendo possível a leitura do texto criado pelos desenvolvedores do site
+Passos
+1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Entrar na página Sobre nós
+Critérios de Êxito
+A página deve apresentar um texto descrevendo os desenvolvedores do site
 
 
 ## Avaliação
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Por meio da realização dos testes, foi possível concluir que o site está em seu correto funcionamento. 
 
