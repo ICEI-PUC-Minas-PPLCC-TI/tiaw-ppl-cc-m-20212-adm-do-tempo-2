@@ -2,7 +2,7 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="250" width="250" ></a>
 
 
 NOME: Rodrigo Silva Lima;               
@@ -20,7 +20,7 @@ NUNCA DEVEMOS: Diminuí-lo.;
 
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790155-247563be-4dc2-43a1-a60e-fb68503039c3.jpg" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790155-247563be-4dc2-43a1-a60e-fb68503039c3.jpg" align="left" height="250" width="250" ></a>
 
 
 
@@ -35,6 +35,12 @@ OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amig
 OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima;     
 COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente;
 NUNCA DEVEMOS: Faltar sinceridade e xingá-la;  
+
+
+
+
+
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="300" width="300" ></a>
 
 NOME: Karen dos Reis;                 
 IDADE: 19 anos;                
