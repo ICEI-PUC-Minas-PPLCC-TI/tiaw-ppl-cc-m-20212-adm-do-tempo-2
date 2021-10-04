@@ -4,6 +4,22 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 ## Personas 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="250" width="250" ></a>
 
+NOME: Clóvis da Silva;
+IDADE: 21 anos;
+HOBBIE: Jogar jogos online;
+TRABALHO: Estudante;
+PERSONALIDADE: Influência e conformidade;
+SONHOS: Morar com os amigos, fazer mochilão e ter um emprego que goste;
+OBJETOS E LUGARES: Celular, computador e videogame
+OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus sonhos,    |
+COMO DEVEMOS TRATA-LA: Confiar na sua experiência
+NUNCA DEVEMOS: Mentir e faltar compromisso.
+
+
+
+
+
+
 
 NOME: Rodrigo Silva Lima              
 IDADE: 43 anos             
@@ -21,8 +37,6 @@ NUNCA DEVEMOS: Diminuí-lo.
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790720-90ced8d7-6394-4e95-a9ff-b10393bbd5de.jpg" align="left" height="250" width="250" ></a>
-
-
 
 
 NOME: Maria Lúcia do Carmo              
@@ -89,4 +103,4 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o dia 03/10/2021    |
-|02| Não pode ser desenvolvido um módulo de backend        |
+
