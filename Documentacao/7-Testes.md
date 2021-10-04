@@ -24,7 +24,7 @@ Verificar se está sendo possível a criação de uma lista com atividades concl
 Passos
 1) Acessar o Navegador
 2) Informar o endereço do Site
-3) Entrar na página tarefas
+3) Entrar na página principal na parte tarefas
 Critérios de Êxito
 Devem ser apresentadas 2 listas com as tarefas concluídas e pendentes
 As listas devem ser editáveis
@@ -39,7 +39,7 @@ Verificar se está sendo possível a criação de uma agenda com as tarefas de a
 Passos
 1) Acessar o Navegador
 2) Informar o endereço do Site
-3) Entrar na página agenda
+3) Entrar na página principal na parte agenda
 Critérios de Êxito
 A página deve apresentar uma agenda semanal editável com as tarefas de cada dia
 
