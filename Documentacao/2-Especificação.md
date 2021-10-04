@@ -61,16 +61,16 @@ ________________________________________________________________________________
 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135794230-762780c2-995f-49a1-a49e-df9e1633fb4d.png" align="left" height="270" width="270" ></a>
 
-NOME: Clóvis da Silva
-IDADE: 21 anos
-HOBBIE: Jogar jogos online
-TRABALHO: Estudante
-PERSONALIDADE: Influência e conformidade
-SONHOS: Morar com os amigos, fazer mochilão e ter um emprego que goste
-OBJETOS E LUGARES: Celular, computador e videogame
-OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus sonhos,    |
-COMO DEVEMOS TRATA-LA: Confiar na sua experiência
-NUNCA DEVEMOS: Mentir e faltar compromisso.
+NOME: Clóvis da Silva </br>
+IDADE: 21 anos </br>
+HOBBIE: Jogar jogos online </br>
+TRABALHO: Estudante </br>
+PERSONALIDADE: Influência e conformidade </br>
+SONHOS: Morar com os amigos, fazer mochilão e ter um emprego que goste </br>
+OBJETOS E LUGARES: Celular, computador e videogame </br>
+OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus sonhos </br>  |
+COMO DEVEMOS TRATÁ-LO: Confiar na sua experiência </br>
+NUNCA DEVEMOS: Mentir e faltar compromisso. </br>
 
 
 
