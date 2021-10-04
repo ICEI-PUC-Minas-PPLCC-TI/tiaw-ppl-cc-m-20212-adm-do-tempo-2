@@ -72,7 +72,7 @@ OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus son
 COMO DEVEMOS TRATÁ-LO: Confiar na sua experiência </br>
 NUNCA DEVEMOS: Mentir e faltar compromisso. </br>
 
-
+</br>
 
 ## Requisitos
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
