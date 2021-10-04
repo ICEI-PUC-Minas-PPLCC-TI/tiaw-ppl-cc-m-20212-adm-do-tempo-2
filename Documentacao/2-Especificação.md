@@ -45,11 +45,11 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  ----------------------  | Prioridade |
 |------|-----------------------------------------------  |----   |
-|RF-001| Permitir que o usuário preencha um calendário   |       |
-|      | com suas tarefas                                | ALTA  | 
-|RF-002| Emitir um relatório de resultados no mês        | MÉDIA |
-|RF-003| Disponibilizar ao usuário textos e  vídeos sobre| MÉDIA |
-|      | a importância da administração do tempo         |       |
+|RF-001| Permitir que o usuário crie uma lista com as    |       |
+|      | tarefas concluídas e pendentes                  | ALTA  | 
+|RF-002| Permitir ao usuário a criaçao de uma agenda     | ALTA  |
+|RF-003| Disponibilizar ao usuário um texto descrevend   | ALTA  |
+|      | os desenvolvedores do site                      |       |
       
 
 #### Requisitos não Funcionais
