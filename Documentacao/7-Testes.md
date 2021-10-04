@@ -59,5 +59,3 @@ A página deve apresentar um texto descrevendo os desenvolvedores do site
 
 ## Avaliação
 
-Por meio da realização dos testes, foi possível concluir que o site está em seu correto funcionamento. 
-
