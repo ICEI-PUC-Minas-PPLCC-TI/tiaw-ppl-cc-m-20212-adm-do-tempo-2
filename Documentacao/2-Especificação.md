@@ -16,6 +16,8 @@ OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus son
 COMO DEVEMOS TRATA-LA: Confiar na sua experiência
 NUNCA DEVEMOS: Mentir e faltar compromisso.
 
+____________________________________________________________________________________
+____________________________________________________________________________________
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="250" width="250" ></a>
@@ -33,6 +35,8 @@ OBJETIVOS CHAVE: Otimizar a realização de tarefas em seu serviço
 COMO DEVEMOS TRATÁ-LO: Impulsiona-la a mudar e faze-lo se sentir enturmado
 NUNCA DEVEMOS: Diminuí-lo.
 
+____________________________________________________________________________________
+____________________________________________________________________________________
 
 
 
@@ -51,6 +55,8 @@ COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente
 NUNCA DEVEMOS: Faltar sinceridade e xingá-la 
 
 
+____________________________________________________________________________________
+____________________________________________________________________________________
 
 
 
