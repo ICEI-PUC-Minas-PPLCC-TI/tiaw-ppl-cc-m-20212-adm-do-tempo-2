@@ -5,17 +5,17 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="200" width="200" ></a>
 
 
->NOME: Rodrigo Silva Lima;               
->IDADE: 43 anos;              
->HOBBIE: Jogar jogos online;              
->TRABALHO: Analista;            
->PERSONALIDADE: Estabilidade;        
->SONHOS: Ter uma casa própria junto com uma família unida e ser bem sucedido;               
->OBJETOS E LUGARES: Utiliza computadores em seu serviço e hobby, e celular para se comunicar
+NOME: Rodrigo Silva Lima;               
+IDADE: 43 anos;              
+HOBBIE: Jogar jogos online;              
+TRABALHO: Analista;            
+PERSONALIDADE: Estabilidade;        
+SONHOS: Ter uma casa própria junto com uma família unida e ser bem sucedido;               
+OBJETOS E LUGARES: Utiliza computadores em seu serviço e hobby, e celular para se comunicar
                    com amigos e familiares;  
 OBJETIVOS CHAVE: Otimizar a realização de tarefas em seu serviço;     
 COMO DEVEMOS TRATA-LA: Impulsiona-la a mudar e faze-lo se sentir enturmado;
-NUNCA DEVEMOS: Não diminui-la.
+  NUNCA DEVEMOS: Diminuí-lo.
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790155-247563be-4dc2-43a1-a60e-fb68503039c3.jpg" align="left" height="200" width="200" ></a>
