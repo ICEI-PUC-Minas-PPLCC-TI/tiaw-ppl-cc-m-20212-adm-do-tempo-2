@@ -25,16 +25,16 @@ NUNCA DEVEMOS: Diminuí-lo.
 
 
 
-NOME: Maria Lúcia do Carmo;               
-IDADE: 21 anos;              
-HOBBIE: Assistir netflix;              
-TRABALHO: Estudante;             
-PERSONALIDADE: Conformidade e estabilidade;        
-SONHOS: Ser médica e ter uma família;               
-OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amigos e ver séries;    
-OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima;     
-COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente;
-NUNCA DEVEMOS: Faltar sinceridade e xingá-la;  
+NOME: Maria Lúcia do Carmo              
+IDADE: 21 anos              
+HOBBIE: Assistir netflix              
+TRABALHO: Estudante            
+PERSONALIDADE: Conformidade e estabilidade       
+SONHOS: Ser médica e ter uma família               
+OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amigos e ver séries    
+OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima     
+COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente
+NUNCA DEVEMOS: Faltar sinceridade e xingá-la 
 
 
 
@@ -42,15 +42,15 @@ NUNCA DEVEMOS: Faltar sinceridade e xingá-la;
 
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="250" width="250" ></a>
 
-NOME: Karen dos Reis;                 
-IDADE: 19 anos;                
-HOBBIE: Andar de skate;              
-TRABALHO: Estudante;            
-PERSONALIDADE: Dominância e conformidade;       
-SONHOS: Viajar para o exterior, formar na faculdade e ter uma família;              
-OBJETOS E LUGARES: Utiliza o aparelho celular para tudo, em excesso muitas vezes;   
-OBJETIVOS CHAVE: Se tornar mais organizada, tirar notas melhores e ter mais tempo livre;   
-COMO DEVEMOS TRATA-LA: Mostrar que ela é capaz e dar dicas de como se organizar;
+NOME: Karen dos Reis                 
+IDADE: 19 anos                
+HOBBIE: Andar de skate              
+TRABALHO: Estudante           
+PERSONALIDADE: Dominância e conformidade       
+SONHOS: Viajar para o exterior, formar na faculdade e ter uma família              
+OBJETOS E LUGARES: Utiliza o aparelho celular para tudo, em excesso muitas vezes  
+OBJETIVOS CHAVE: Se tornar mais organizada, tirar notas melhores e ter mais tempo livre  
+COMO DEVEMOS TRATA-LA: Mostrar que ela é capaz e dar dicas de como se organizar
 NUNCA DEVEMOS: Critica-la e pressiona-la.
 
 
