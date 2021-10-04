@@ -2,12 +2,7 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
-
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
+>   A interface da plataforma foi elaborada de uma forma que na parte principal do site explica sobre a importância da administração do tempo de forma a convencer o usuário a criar uma conta no site, ao criar sua conta ele terá disponível uma área em que poderá colocar e visualizar todas suas tarefas da semana, essas tarefas também estarão em uma agenda, nessa agenda mostrará os dias da semana e horários em que ele tem tarefas, com isso nessa agenda ele irá organizar o seu tempo mostrando quando ele vai fazer uma tarefa x e quando vai estar estudando ou trabalhando mostrando todo o seu horário.
 
 ## User Flow
 
