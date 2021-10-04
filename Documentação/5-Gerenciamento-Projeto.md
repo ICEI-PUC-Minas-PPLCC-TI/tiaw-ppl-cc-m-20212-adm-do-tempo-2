@@ -5,7 +5,6 @@
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo.
 > Marcamos horários para nos reunirmos e assim fazíamos tudo juntos.
 
 
