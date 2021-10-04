@@ -1,11 +1,6 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-
-> Conjunto de slides em um arquivo PowerPoint ou PDF
-> com a apresentação do projeto contemplando todos os
-> itens trabalhados nos demais artefatos.
+[Administração do tempo 2.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20212-adm-do-tempo-2/files/7275086/Administracao.do.tempo.2.pdf)
 
 ## Título do Projeto
 > TEC TIME
