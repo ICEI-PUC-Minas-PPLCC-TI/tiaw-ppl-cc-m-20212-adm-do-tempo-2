@@ -19,32 +19,17 @@
 
 ## Arquitetura da solução
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+![User Flow](https://user-images.githubusercontent.com/89615793/135787286-386acd31-d53b-4184-ba37-1589106370ba.png)
+Nosso site terá uma página principal que a partir dela o usuário terá acesso a outras partes do site, pode-se obsevar no User Flow acima.
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+![TELA INICIAL](https://user-images.githubusercontent.com/89615793/135787264-af53b497-4046-4746-b29b-4efbb78441cf.png)
+A imagem (TELA INICIAL) é a primeira visualização do site que o usuário verá, quando clicar em algum dos botões, será direcionado para a página em questão.
+As imagens abaixo são os wireframes das páginas que o usuário terá acesso ao clicar em um botão (SOBRE NÓS/CONTATO/INSCREVER-SE/LOGIN/AGENDA/TAREFAS/AGENDAR TAREFAS) 
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
-
-![Exemplo de UserFlow](images/userflow.jpg)
-
+![TELA SOBRE NÓS](https://user-images.githubusercontent.com/89615793/135787714-b6f8c4cb-5b11-42cc-a913-4496755c9827.png)
+![TELA TAREFAS](https://user-images.githubusercontent.com/89615793/135787716-4ecaa00e-5148-4f3a-8d59-f522060eff5a.png)
+![TELA AGENDA](https://user-images.githubusercontent.com/89615793/135787718-2bc9df7e-e811-49ec-ad44-ff4575992c18.png)
+![TELA CONTATO](https://user-images.githubusercontent.com/89615793/135787719-7061b31e-9037-4b7b-8510-869ddb983f8e.png)
+![TELA INSCRIÇÃO](https://user-images.githubusercontent.com/89615793/135787721-c99c8df1-9a92-4282-97af-b4bd25858f23.png)
+![TELA LOGIN](https://user-images.githubusercontent.com/89615793/135787725-6f64687d-8f89-4100-b6c6-045338d0b5d8.png)
