@@ -6,7 +6,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 
 NOME: Rodrigo Silva Lima;               
-IDADE: 23 anos;              
+IDADE: 43 anos;              
 HOBBIE: Jogar jogos online;              
 TRABALHO: Analista;            
 PERSONALIDADE: Estabilidade;        
