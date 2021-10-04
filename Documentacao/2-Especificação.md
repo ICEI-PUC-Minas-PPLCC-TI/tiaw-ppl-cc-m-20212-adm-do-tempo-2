@@ -20,7 +20,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="270" width="270" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="300" width="300" ></a>
 
 
 NOME: Rodrigo Silva Lima              
