@@ -11,10 +11,8 @@
 > TEC TIME
 
 ## Identidade Visual (Marca, Design)
-> O grupo deve ter o cuidado em utilizar figuras, imagens, e
-> cores dentro do contexto da solução proposta, de forma a
-> manter a temática do problema.
-> 
+>> ![tec time 1 3](https://user-images.githubusercontent.com/89420964/135784331-72ab81ca-e2b8-4f52-b4d1-ce3b997ff453.png)
+
 > **Links Úteis**:
 > - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
 > - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
