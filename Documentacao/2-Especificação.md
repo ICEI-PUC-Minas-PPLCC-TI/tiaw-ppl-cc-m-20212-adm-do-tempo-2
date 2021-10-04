@@ -18,6 +18,12 @@ COMO DEVEMOS TRATÁ-LO: Impulsiona-la a mudar e faze-lo se sentir enturmado;
 NUNCA DEVEMOS: Diminuí-lo.;
 
 
+
+
+
+
+
+
 <a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790155-247563be-4dc2-43a1-a60e-fb68503039c3.jpg" align="left" height="300" width="300" ></a>
 
 
