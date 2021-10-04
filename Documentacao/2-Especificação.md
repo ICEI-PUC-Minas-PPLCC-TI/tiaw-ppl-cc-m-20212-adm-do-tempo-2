@@ -40,7 +40,7 @@ NUNCA DEVEMOS: Faltar sinceridade e xingá-la;
 
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="250" width="250" ></a>
 
 NOME: Karen dos Reis;                 
 IDADE: 19 anos;                
