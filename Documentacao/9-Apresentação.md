@@ -6,4 +6,4 @@
 > TEC TIME
 
 ## Identidade Visual (Marca, Design)
->> ![tec time 1 3](https://user-images.githubusercontent.com/89420964/135784331-72ab81ca-e2b8-4f52-b4d1-ce3b997ff453.png)
+![tec time 1 3](https://user-images.githubusercontent.com/89420964/135784331-72ab81ca-e2b8-4f52-b4d1-ce3b997ff453.png)
