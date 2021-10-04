@@ -2,6 +2,8 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas 
+>![RODRIGO](https://user-images.githubusercontent.com/89615793/135789620-6b8be824-27d0-45d1-96fc-eed67678fde8.jpg)
+
 NOME: Rodrigo Silva Lima;               
 IDADE: 23 anos;              
 HOBBIE: Jogar jogos online;              
