@@ -36,7 +36,7 @@ OBJETOS E LUGARES: Utiliza celular e computador para estudar, interagir com amig
 OBJETIVOS CHAVE: Se tornar mais produtiva e melhorar autoestima     
 COMO DEVEMOS TRATA-LA: Encoraja-la a tomar decisões e elogia-la frequentemente
 NUNCA DEVEMOS: Faltar sinceridade e xingá-la 
-
+</br>
 
 ____________________________________________________________________________________
 ____________________________________________________________________________________
@@ -55,7 +55,7 @@ OBJETOS E LUGARES: Utiliza o aparelho celular para tudo, em excesso muitas vezes
 OBJETIVOS CHAVE: Se tornar mais organizada, tirar notas melhores e ter mais tempo livre  
 COMO DEVEMOS TRATA-LA: Mostrar que ela é capaz e dar dicas de como se organizar
 NUNCA DEVEMOS: Critica-la e pressiona-la.
-
+</br>
 ____________________________________________________________________________________
 ____________________________________________________________________________________
 
