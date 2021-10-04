@@ -3,7 +3,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135794230-762780c2-995f-49a1-a49e-df9e1633fb4d.png" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135794230-762780c2-995f-49a1-a49e-df9e1633fb4d.png" align="left" height="270" width="270" ></a>
 
 NOME: Clóvis da Silva;
 IDADE: 21 anos;
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="270" width="270" ></a>
 
 
 NOME: Rodrigo Silva Lima              
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790720-90ced8d7-6394-4e95-a9ff-b10393bbd5de.jpg" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790720-90ced8d7-6394-4e95-a9ff-b10393bbd5de.jpg" align="left" height="270" width="270" ></a>
 
 
 NOME: Maria Lúcia do Carmo              
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="250" width="250" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135790514-327ce7e0-8228-4c33-a398-0c996cee48e8.jpg" align="left" height="270" width="270" ></a>
 
 NOME: Karen dos Reis                 
 IDADE: 19 anos                
