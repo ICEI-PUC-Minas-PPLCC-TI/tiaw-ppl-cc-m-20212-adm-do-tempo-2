@@ -13,10 +13,7 @@
 ## Identidade Visual (Marca, Design)
 >> ![tec time 1 3](https://user-images.githubusercontent.com/89420964/135784331-72ab81ca-e2b8-4f52-b4d1-ce3b997ff453.png)
 
-> **Links Úteis**:
-> - [10 dicas de design para slides](https://rockcontent.com/blog/design-para-slides/)
-> - [7 dicas de design para criar apresentações de PowerPoint incríveis e eficientes](https://www.shutterstock.com/pt/blog/7-dicas-de-design-para-criar-apresentacoes-de-powerpoint-incriveis-e-eficientes)
-> - [Especialista do TED dá 10 dicas para criar slides eficazes e bonitos](https://soap.com.br/blog/especialista-do-ted-da-10-dicas-para-criar-slides-eficazes-e-bonitos)
+
 
 ## Conjunto de Slides (Estrutura)
 > O grupo deve distribuir de forma coerente o conteúdo a ser
