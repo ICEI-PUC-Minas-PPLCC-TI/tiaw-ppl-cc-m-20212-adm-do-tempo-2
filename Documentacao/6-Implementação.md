@@ -20,10 +20,14 @@
 ## Arquitetura da solução
 
 ![User Flow](https://user-images.githubusercontent.com/89615793/135787286-386acd31-d53b-4184-ba37-1589106370ba.png)
+
+
 Nosso site terá uma página principal que a partir dela o usuário terá acesso a outras partes do site, pode-se obsevar no User Flow acima.
 
 
 ![TELA INICIAL](https://user-images.githubusercontent.com/89615793/135787264-af53b497-4046-4746-b29b-4efbb78441cf.png)
+
+
 A imagem (TELA INICIAL) é a primeira visualização do site que o usuário verá, quando clicar em algum dos botões, será direcionado para a página em questão.
 As imagens abaixo são os wireframes das páginas que o usuário terá acesso ao clicar em um botão (SOBRE NÓS/CONTATO/INSCREVER-SE/LOGIN/AGENDA/TAREFAS/AGENDAR TAREFAS) 
 
