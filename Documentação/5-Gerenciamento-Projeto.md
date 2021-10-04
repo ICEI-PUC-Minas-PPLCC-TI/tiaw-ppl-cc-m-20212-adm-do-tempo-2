@@ -1,7 +1,7 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+> Nos colocamos no lugar da pessoa para que possamos resolver as dificuldades dela com o nosso projeto. 
+
 
 ## Divisão de Papéis
 
