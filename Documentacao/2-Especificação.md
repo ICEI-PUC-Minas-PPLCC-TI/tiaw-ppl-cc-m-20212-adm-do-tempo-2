@@ -30,7 +30,7 @@ TRABALHO: Analista
 PERSONALIDADE: Estabilidade        
 SONHOS: Ter uma casa própria junto com uma família unida e ser bem sucedido              
 OBJETOS E LUGARES: Utiliza computadores em seu serviço e hobby, e celular para se comunicar
-                   com amigos e familiares  
+com amigos e familiares  
 OBJETIVOS CHAVE: Otimizar a realização de tarefas em seu serviço     
 COMO DEVEMOS TRATÁ-LO: Impulsiona-la a mudar e faze-lo se sentir enturmado
 NUNCA DEVEMOS: Diminuí-lo.
