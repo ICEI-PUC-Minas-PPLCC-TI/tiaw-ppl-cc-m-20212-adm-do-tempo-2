@@ -2,7 +2,7 @@
 A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
 ## Personas 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="200" width="200" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="300" width="300" ></a>
 
 
 NOME: Rodrigo Silva Lima;               
@@ -14,7 +14,7 @@ SONHOS: Ter uma casa própria junto com uma família unida e ser bem sucedido;
 OBJETOS E LUGARES: Utiliza computadores em seu serviço e hobby, e celular para se comunicar
                    com amigos e familiares;  
 OBJETIVOS CHAVE: Otimizar a realização de tarefas em seu serviço;     
-COMO DEVEMOS TRATA-LA: Impulsiona-la a mudar e faze-lo se sentir enturmado;
+COMO DEVEMOS TRATÁ-LO: Impulsiona-la a mudar e faze-lo se sentir enturmado;
 NUNCA DEVEMOS: Diminuí-lo.;
 
 
