@@ -3,24 +3,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas 
 
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135794230-762780c2-995f-49a1-a49e-df9e1633fb4d.png" align="left" height="270" width="270" ></a>
-
-NOME: Clóvis da Silva;
-IDADE: 21 anos;
-HOBBIE: Jogar jogos online;
-TRABALHO: Estudante;
-PERSONALIDADE: Influência e conformidade;
-SONHOS: Morar com os amigos, fazer mochilão e ter um emprego que goste;
-OBJETOS E LUGARES: Celular, computador e videogame
-OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus sonhos,    |
-COMO DEVEMOS TRATA-LA: Confiar na sua experiência
-NUNCA DEVEMOS: Mentir e faltar compromisso.
-
-____________________________________________________________________________________
-____________________________________________________________________________________
-
-
-<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="300" width="300" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135789763-70af299d-3138-4086-a863-9b5e1bf2a7ef.jpg" align="left" height="270" width="270" ></a>
 
 
 NOME: Rodrigo Silva Lima              
@@ -72,6 +55,23 @@ OBJETOS E LUGARES: Utiliza o aparelho celular para tudo, em excesso muitas vezes
 OBJETIVOS CHAVE: Se tornar mais organizada, tirar notas melhores e ter mais tempo livre  
 COMO DEVEMOS TRATA-LA: Mostrar que ela é capaz e dar dicas de como se organizar
 NUNCA DEVEMOS: Critica-la e pressiona-la.
+
+____________________________________________________________________________________
+____________________________________________________________________________________
+
+<a href="url"><img src="https://user-images.githubusercontent.com/89615793/135794230-762780c2-995f-49a1-a49e-df9e1633fb4d.png" align="left" height="270" width="270" ></a>
+
+NOME: Clóvis da Silva;
+IDADE: 21 anos;
+HOBBIE: Jogar jogos online;
+TRABALHO: Estudante;
+PERSONALIDADE: Influência e conformidade;
+SONHOS: Morar com os amigos, fazer mochilão e ter um emprego que goste;
+OBJETOS E LUGARES: Celular, computador e videogame
+OBJETIVOS CHAVE: Ficar mais responsável, otimizar seu tempo e realizar seus sonhos,    |
+COMO DEVEMOS TRATA-LA: Confiar na sua experiência
+NUNCA DEVEMOS: Mentir e faltar compromisso.
+
 
 
 ## Requisitos
