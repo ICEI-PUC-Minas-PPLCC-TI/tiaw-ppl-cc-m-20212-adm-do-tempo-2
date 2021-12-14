@@ -5,22 +5,14 @@
 ## Tecnologias Utilizadas
 
 
->Iremos utilizar as seguintes tecnologias e ferramentas para resolver nosso problema: Figma, Trello, TailorBrands, Visual Studio Code, Js, HTML, CSS, Angular, CakePHP, Vue, Ember.js, Bootstrap, Materialize, SOAP e XML
+> Iremos utilizar as seguintes tecnologias e ferramentas para resolver nosso problema: Figma, Miro, Trello, Replit, Visual Studio Code, Js, HTML, CSS.
 
+> Utilizamos o localStorage para armazenar dados  dos usuários e suas tarefas,
+> as linguagens utilizadas durante a codificação do projeto foram HTML, CSS, JS.
+> Os serviços web que foram utilizados foi o Replit, para hospedagem, Trello, para a divisão de tarefas,
+> Figma, para fazer o wireframe, Miro, para criar as personas, mapa de stakeholders, 
+> Visual Studio Code, para o desenvolvimento do site.
 
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
 
 ## Arquitetura da solução
 
