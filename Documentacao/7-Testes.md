@@ -31,6 +31,7 @@ Passos
 5) Quando o usuário for cadastrado, ir para a página de login
 6) Realizar o login, se tudo estiver certo ir para a página Inicial
 > - Critérios de Êxito
+> 
 >Deve ser apresentado uma página inicial, nela terá um cabeçalho,
 >nesse cabeçalho o usuário deve clicar no login e ir para a página de login,
 >Na página de login o usuário terá a opção de fazer o login, se o usuário já existir,
@@ -54,6 +55,7 @@ Passos
 5) Criar a tarefa formulário colocando o nome da tarefa
 6) Excluir a tarefa desejada a ser excluída clicando na imagem de lixo na tarefa em deseja excluir
 > - Critérios de Êxito
+> 
 >A página deve apresentar um formulário editável com as tarefas criadas pelo usuário,
 >ao clicar no texto da tarefa criada ela terá seu nome cortado e será considerada como concluída,
 >ao clicar na imagem do lixo ela será excluída e não irá aparecer na tela.
@@ -70,6 +72,7 @@ Passos
 3) Entrar na página Desempenho
 4) Visualizar o gráfico em forma de pizza
 > - Critérios de Êxito
+> 
 >A página deve apresentar um gráfico descrevendo o desempenho do usuário 
 >em uma relação de porcentagem em que mostra a porcentagem de tarefas completas e tarefas incompletas
 
