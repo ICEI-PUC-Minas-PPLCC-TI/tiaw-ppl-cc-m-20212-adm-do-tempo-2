@@ -82,11 +82,10 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  ----------------------  | Prioridade |
 |------|-----------------------------------------------  |----   |
-|RF-001| Permitir que o usuário crie uma lista com as    |       |
-|      | tarefas concluídas e pendentes                  | ALTA  | 
-|RF-002| Permitir ao usuário a criaçao de uma agenda     | ALTA  |
-|RF-003| Disponibilizar ao usuário um texto descrevend   | ALTA  |
-|      | os desenvolvedores do site                      |       |
+|RF-001| Permitir que o usuário crie uma conta           | ALTA  | 
+|RF-002| Permitir ao usuário o cadastro e exclusão de    | ALTA  |
+|      | tarefas                                         |       |
+|RF-003| Disponibilizar ao usuário um gráfico de tarefas | ALTA  |
       
 
 #### Requisitos não Funcionais
@@ -94,19 +93,8 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID     | Descrição do Requisito  ---------------------------------------    |Prioridade |
 |-------|----------------------------------------------------------------    |------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel  |ALTA  | 
+|RNF-001| Disponibilizar ao usuário um texto sobre a importância da          |MÉDIA |
+|       | administrção do tempo                                               |      |
 |RNF-002| Deve processar requisições do usuário em no máximo 3s              |MÉDIA | 
 |RNF-003| O site deve ser compatível com os principais navegadores do mercado|ALTA  |
 |       |   (Google Chrome, Firefox, Microsoft Edge)                         |      |
-
-
-
-
-
-## Restrições
-As questões que limitam a execução desse projeto e que se configuram como obrigações claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o dia 03/10/2021    |
-
