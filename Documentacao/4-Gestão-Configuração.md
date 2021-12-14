@@ -1,9 +1,8 @@
 # Gestão de Configuração
 
-> Nesta parte do documento, você deve apresentar como foi realizada a
-> gestão de configuração do projeto. Isto é, como a ferramenta de
-> controle de versão foi configurada, bem como a hospedagem da
-> plataforma.
+> A configuração do site foi feita toda no replit,
+> mesmo local onde foi hospedado o site.
+> 
 
 ## Controle de Versão
 
