@@ -4,7 +4,7 @@
       * **Entrevista Qualitativa.png** 
      
 *ESTRUTURA DO SITE: Formato e estrutura do site
-     * **Estrutura do site.png**      : Formato e estrutura do site
+     * **Estrutura do site.png**     
      
 *HIGHLIGHTS DE PESQUISA: Resultado da pesquisa sobre a administrção do tempo
      * **Highlights de Pesquisa.png**
