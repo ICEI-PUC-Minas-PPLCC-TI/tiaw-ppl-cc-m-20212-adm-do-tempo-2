@@ -11,8 +11,7 @@ O objetivo do nosso projeto é auxiliar pessoas que não conseguem, e ou não sa
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 
